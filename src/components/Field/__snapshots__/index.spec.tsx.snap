@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Field Component Field => render snapshot Render correctly 1`] = `"<div class=\\"c-field sc-ckVGcZ jQapgt\\"><label class=\\"sc-eNQAEJ hnchOF\\">Nombre</label><div class=\\"sc-kEYyzF ipzqjR\\"><input type=\\"text\\" class=\\"sc-kkGfuU kUpoXX\\" name=\\"input\\" width=\\"200px\\"/></div><span class=\\"sc-hMqMXs kEljjE\\"></span></div>"`;

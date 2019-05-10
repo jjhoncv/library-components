@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "sourceMap": false,
+    "allowJs": true,
+    "moduleResolution": "node",
+    "target": "ES5",
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+        "@app/*": ["*"]
+    },
+    "experimentalDecorators": true,
+    "lib": [
+        "dom",
+        "es2015",
+        "es2015.promise"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts",
+    ".storybook",
+    "scripts"
+  ]
+}

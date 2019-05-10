@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu Component Menu => render snapshot Render correctly 1`] = `"<ul class=\\"sc-bdVaJa kdFyRA\\"><li class=\\"sc-bwzfXH eVnbzd\\">JOHN</li></ul>"`;

@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select Component Select => render snapshot Render correctly 1`] = `"<div width=\\"200px\\" class=\\"sc-htpNat eARpma\\"><select class=\\"sc-bwzfXH hzUOpi\\"><option value=\\"0\\">Soles</option><option value=\\"1\\">Dólares</option></select><div class=\\"sc-bdVaJa hGBZVw\\"><div color=\\"#B6B6B6\\" class=\\"sc-bxivhb iJWmdf\\"><svg xmlns=\\"http://www.w3.org/2000/svg\\" width=\\"24\\" height=\\"24\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\" stroke=\\"currentColor\\" stroke-width=\\"2\\" stroke-linecap=\\"round\\" stroke-linejoin=\\"round\\"><polyline points=\\"6 9 12 15 18 9\\"></polyline></svg></div></div></div>"`;

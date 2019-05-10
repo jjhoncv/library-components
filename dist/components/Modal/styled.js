@@ -1,0 +1,12 @@
+"use strict";
+var __makeTemplateObject = (this && this.__makeTemplateObject) || function (cooked, raw) {
+    if (Object.defineProperty) { Object.defineProperty(cooked, "raw", { value: raw }); } else { cooked.raw = raw; }
+    return cooked;
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var styled_components_1 = require("styled-components");
+var ui_1 = require("./../../ui");
+exports.ModalOverlay = styled_components_1.default.div(templateObject_1 || (templateObject_1 = __makeTemplateObject(["\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  display: flex;\n  opacity: 1;\n  z-index: 100;\n  padding: 15px;\n  position: fixed;\n  animation: show 0.5s ease;\n  overflow-x: hidden;\n  overflow-y: auto;\n  align-items: center;\n  justify-content: center;\n  background-color: rgba(0,0,0,0.7);\n"], ["\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  display: flex;\n  opacity: 1;\n  z-index: 100;\n  padding: 15px;\n  position: fixed;\n  animation: show 0.5s ease;\n  overflow-x: hidden;\n  overflow-y: auto;\n  align-items: center;\n  justify-content: center;\n  background-color: rgba(0,0,0,0.7);\n"])));
+exports.ModalStyled = styled_components_1.default.div(templateObject_2 || (templateObject_2 = __makeTemplateObject(["\n  display: flex;\n  flex-wrap: wrap;\n  flex-direction: column;\n  background: ", ";\n  padding: 10px;\n  color: black;\n  position: relative;\n  padding: 30px;\n"], ["\n  display: flex;\n  flex-wrap: wrap;\n  flex-direction: column;\n  background: ", ";\n  padding: 10px;\n  color: black;\n  position: relative;\n  padding: 30px;\n"])), ui_1.COLORS.WHITE);
+exports.ModalIcon = styled_components_1.default.div(templateObject_3 || (templateObject_3 = __makeTemplateObject(["\n  position: absolute;\n  top: 10px;\n  right: 10px;\n  display: inline-flex;\n  align-self: flex-end;\n  box-sizing: border-box;\n  cursor: pointer;\n  border-radius: 50%;\n  transition: .3s linear;\n\n  &:hover {\n    background-color: ", ";\n  }\n\n  svg {\n    color: ", ";\n  }\n"], ["\n  position: absolute;\n  top: 10px;\n  right: 10px;\n  display: inline-flex;\n  align-self: flex-end;\n  box-sizing: border-box;\n  cursor: pointer;\n  border-radius: 50%;\n  transition: .3s linear;\n\n  &:hover {\n    background-color: ", ";\n  }\n\n  svg {\n    color: ", ";\n  }\n"])), ui_1.COLORS.BORDER_GRAY, ui_1.COLORS.BLACK);
+var templateObject_1, templateObject_2, templateObject_3;

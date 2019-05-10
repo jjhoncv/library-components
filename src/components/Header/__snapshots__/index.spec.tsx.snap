@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Header => render snapshot Render correctly 1`] = `"<div class=\\"sc-bdVaJa UoSJW\\"><span class=\\"sc-bwzfXH ljAYCu\\">Call Center</span></div>"`;
+
+exports[`Header Component Header Image => render snapshot Render Image correctly 1`] = `"<div class=\\"sc-bdVaJa UoSJW\\"><span class=\\"sc-bwzfXH sc-bxivhb hwMfcM\\">Call Center  <img src=\\"https://via.placeholder.com/50\\"/></span></div>"`;

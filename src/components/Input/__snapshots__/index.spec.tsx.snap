@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Component Input => render snapshot Render correctly 1`] = `"<div class=\\"sc-bdVaJa lntvKF\\"><input type=\\"text\\" class=\\"c-input sc-bwzfXH bvEjUc\\" name=\\"input\\" placeholder=\\"Ingrese el texto aquí\\" width=\\"290px\\" value=\\"\\"/></div>"`;
